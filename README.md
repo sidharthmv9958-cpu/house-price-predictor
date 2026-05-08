@@ -1,6 +1,6 @@
 # 🏠 House Price Predictor
 
-A machine learning web app that predicts house sale prices based on key property features — trained on 2,930 real homes from the Ames Housing Dataset with an **R² score of 0.88** and **MAE of ~$14,000**.
+A machine learning web app that predicts house sale prices based on key property features — trained on 2,930 real homes from the Ames Housing Dataset with an **R² score of 0.8983** and **MAE of ~$17,955**.
 
 Built with Python, scikit-learn, and Streamlit.
 
