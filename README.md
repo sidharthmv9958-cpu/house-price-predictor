@@ -32,9 +32,9 @@ This project builds a complete regression ML pipeline from scratch:
 
 | Metric | Score |
 |---|---|
-| R² Score | 0.88 |
-| Mean Absolute Error (MAE) | ~$14,000 |
-| Root Mean Squared Error (RMSE) | ~$22,000 |
+| R² Score | 0.8983 |
+| Mean Absolute Error (MAE) | ~$17,995 |
+| Root Mean Squared Error (RMSE) | ~$30,017 |
 | Training samples | 2,344 |
 | Test samples | 586 |
 
@@ -42,9 +42,9 @@ This project builds a complete regression ML pipeline from scratch:
 
 | Model | Cross-validated R² |
 |---|---|
-| Gradient Boosting | **0.88** ← winner |
-| Random Forest | 0.85 |
-| Linear Regression | 0.78 |
+| Gradient Boosting | **0.8605** ← winner |
+| Random Forest | 0.8474 |
+| Linear Regression | 0.8199 |
 
 ![Actual vs Predicted](actual_vs_predicted.png)
 ![Feature Importance](feature_importance.png)
