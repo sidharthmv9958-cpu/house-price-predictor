@@ -8,7 +8,7 @@ Built with Python, scikit-learn, and Streamlit.
 
 ## 🚀 Live Demo
 
-👉 **[Try the app here](https://your-app-name.streamlit.app)** ← *(replace with your Streamlit link)*
+👉 **[Try the app here](https://sidharthmv9958-cpu-house-price-predictor-app-suka4e.streamlit.app/)**
 
 ![App Screenshot](screenshot.png)
 
